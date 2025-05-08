@@ -18,8 +18,8 @@ python key.py
 
 #IMPORTANT: If you want to exit the tool, press F1.
 
-![Screenshot](https://github.com/Natlife/Tool-Basic-Keylog/blob/master/terminal.png)
-![Screenshot](https://github.com/Natlife/Tool-Basic-Keylog/blob/master/demo.png)
+![Screenshot](https://github.com/Natlife/Tool-Basic-Keylog/blob/main/terminal.png)
+![Screenshot](https://github.com/Natlife/Tool-Basic-Keylog/blob/main/demo.png)
 
 
 ## 📬 Contact
