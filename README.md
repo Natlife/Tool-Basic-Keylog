@@ -16,7 +16,7 @@ python key.py
 
 ```
 
-#IMPORTANT: If you want to exit the tool, press F1.
+<h2>#IMPORTANT: If you want to exit the tool, press F1.</h2><br/>
 
 ![Screenshot](https://github.com/Natlife/Tool-Basic-Keylog/blob/main/terminal.png)
 ![Screenshot](https://github.com/Natlife/Tool-Basic-Keylog/blob/main/demo.png)
